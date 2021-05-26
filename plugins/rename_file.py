@@ -50,7 +50,7 @@ async def rename_doc(bot, update):
         caption_str += file_name
         caption_str += "</b>"
         if Config.CHANNEL_URL is not None:
-            caption_str += "\n\nJoin: "
+            caption_str += "\n\nBY: "
             caption_str += "<a href='"
             caption_str += f"{Config.CHANNEL_URL}"
             caption_str += "'>"
