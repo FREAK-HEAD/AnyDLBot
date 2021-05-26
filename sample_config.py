@@ -34,7 +34,7 @@ class Config(object):
     DEF_WATER_MARK_FILE = "@Reaper_OX"
     SHORT_LINK_API_URL = os.environ.get("SHORT_LINK_API_URL", "https://za.gl/api")
     SHORT_LINK_API_KEY = os.environ.get("SHORT_LINK_API_KEY", "")
-    IS_TEAM_DRIVE = os.environ.get("IS_TEAM_DRIVE", False)
+    IS_TEAM_DRIVE = os.environ.get("IS_TEAM_DRIVE", True)
     USE_SERVICE_ACCOUNTS = os.environ.get("USE_SERVICE_ACCOUNTS", False)
     INDEX_URL = os.environ.get("INDEX_URL", "https://faris.abulfa.workers.dev")
     PARENT_ID = os.environ.get("GDRIVE_FOLDER_ID","1ObNwD77-eHqczy_qzZ89VcYveDWqb98r")
