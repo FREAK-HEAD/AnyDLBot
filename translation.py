@@ -22,7 +22,7 @@ URL | filename | username | password</b>"""
     SAVED_RECVD_DOC_FILE = "<b>Document Downloaded Successfully.</b>"
     CUSTOM_CAPTION_UL_FILE = " <b>Bot Created By \n   👉 @Reaper_OX</b>"
     NO_CUSTOM_THUMB_NAIL_FOUND = "<b>No Custom ThumbNail Found.</b>"
-    NO_VOID_FORMAT_FOUND = "Can You Check The Url? <b>I Am Unable To Detect Video Format From UrL.</b> If You Think This Could Be A Bug Please Report On https://t.me/HxSupport"
+    NO_VOID_FORMAT_FOUND = "Can You Check The Url? <b>I Am Unable To Detect Video Format From UrL.</b> If You Think This Could Be A Bug Please Report On https://t.me/Reaper_OX"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
