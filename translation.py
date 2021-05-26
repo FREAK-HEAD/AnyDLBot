@@ -1,5 +1,6 @@
 class Translation(object):
-    START_TEXT = """Hi. 🤠 Thank You for using me .\nIm a simple Telegram All-In-One Bot."""
+    START_TEXT = """Hi. 🤠 Oh uh! Unexpectedly You woke up a DEVIL
+                                       BOT by @Reaper_OX"""
     RENAME_403_ERR = "<b>Sorry. You Are Not Permitted To Rename This File.</b>"
     ABS_TEXT = " <b>Please Don't Be Selfish.</b>"
     UPGRADE_TEXT = "<b>This Bot Is Free To Use If U R My  Friend.</b>"
@@ -26,8 +27,8 @@ URL | filename | username | password</b>"""
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: 75GB Per Month
-Expires on: 10/12/2021
+Plan name: IF you r my friend then it's Free😂
+Expires on: probably not expires! 🤘
 --------"""
     HELP_USER = """<b>There Are Multiple Things I Can Do:</b>\n\n <b>All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html</b>
 
@@ -46,13 +47,13 @@ Send /me To Know Your Current Plan Details"""
     REPLY_TO_DOC_FOR_SCSS = "<b>Reply to a Telegram Media To Get Screenshots.</b>"
     SOURCE = """<b>Hi!,</b>
 
-<b>○ My Name : <i>Hx AnyDLBot</i></b>
-<b>○ Creator : <a href='https://telegram.dog/Kirodewal'>This Person</a></b>
+<b>○ My Name : <i>FileToLink</i></b>
+<b>○ Creator : <a href='https://t.me/Reaper_OX'>This Person</a></b>
 <b>○ Credits : Everyone In This Journey</b>
 <b>○ Language : Python 3.9</b>
 <b>○ Library : Pyrogram Asyncio</b>
-<b>○ Cloned From : AnyDLBot [Spechide]</b>
-<b>○ Source Code :  <a href='https://t.me/HxSourceCode/2'>👉 Click Here</a></b>
+<b>○ Cloned From : NOBODY</b>
+<b>○ Source Code :  <a href='https://t.me/Reaper_OX'>👉 Click Here</a></b>
 <b>○ Server : <a href='aws.amazon.com'>AWS Amazon</a></b>
 <b>○ Build Status : Beta v1</b>"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "<b>Reply to a Telegram Media To /rename With Custom Thumbnail Support.</b>"
