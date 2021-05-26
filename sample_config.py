@@ -31,12 +31,12 @@ class Config(object):
     # set timeout for subprocess
     PROCESS_MAX_TIMEOUT = 100000
     # watermark file
-    DEF_WATER_MARK_FILE = "© @HxBots"
+    DEF_WATER_MARK_FILE = "@Reaper_OX"
     SHORT_LINK_API_URL = os.environ.get("SHORT_LINK_API_URL", "https://za.gl/api")
     SHORT_LINK_API_KEY = os.environ.get("SHORT_LINK_API_KEY", "")
     IS_TEAM_DRIVE = os.environ.get("IS_TEAM_DRIVE", False)
     USE_SERVICE_ACCOUNTS = os.environ.get("USE_SERVICE_ACCOUNTS", False)
-    INDEX_URL = os.environ.get("INDEX_URL", "https://m.tortoolkit.workers.dev/0:")
-    parent_id = os.environ.get("GDRIVE_FOLDER_ID","")
+    INDEX_URL = os.environ.get("INDEX_URL", "https://faris.abulfa.workers.dev")
+    PARENT_ID = os.environ.get("GDRIVE_FOLDER_ID","1ObNwD77-eHqczy_qzZ89VcYveDWqb98r")
     STRIP_FILE_NAMES = os.environ.get("STRIP_FILE_NAMES","www.1TamilMV.life - |www.1TamilMV.life -|www.1TamilMV.org - |www.1TamilMV.org -|www.1TamilMV.xyz - |www.1TamilMV.xyz -|@telupalaka_ht|@telugu_moviez_|@telugu_moviez|@telugupalaka_ht_|@telugupalaka_ht|[MM].|[MM]|[MM] -|@telugu_dubbedmovies_|@telugu_dubbedmovies|@Moviez_India.|@Moviez_India_|@Moviez_India|www_Telugupalaka_com|@MM_New|@MM_Links|@MM_Linkz|www.TamilRockers.ws -|@Animationmovies|HT_BEATS_|-@lubokvideo|@lubokvideo|@english_movieschannel_|@english_movieschannel|@themovies_channel_|@themovies_channel|@telugu_bluray|@teluguoldmovies|[Movies Vip]|[CC].|[CC]|@CC_Links.|@CC_Links|@CC_x265.|@CC_x265|@CC.|@CC|@CC_ALL|@CPR_|@CPR|Moviez_India.|Moviez_India")
-    CHANNEL_URL = "@HxBots\n@HxSupport"
+    CHANNEL_URL = "@Reaper_OX\n@Fil2link_bot"
