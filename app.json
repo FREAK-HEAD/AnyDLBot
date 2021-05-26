@@ -4,13 +4,11 @@
   "keywords": [
     "telegram",
     "best",
-    "youtube",
     "downloader",
     "open",
     "source",
     "multi",
     "purpose",
-    "ffmpeg",
     "remote",
     "uploader"
   ],
@@ -54,8 +52,6 @@
   "addons": [
   ],
   "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-  }, {
     "url": "heroku/python"
   }],
   "formation": {
